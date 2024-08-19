@@ -23,5 +23,5 @@
 hs_err_pid*
 replay_pid*
 
-tipos-variaveis/settings
-sistema-smart-tv/settings
+tipos-variaveis/.vscode/settings
+sistema-smart-tv/.vscode/settings
